@@ -1,17 +1,20 @@
-import React from "react";
+import React  from "react";
 import BotCard from './BotCard.js'
+import SortBar from './SortBar.js'
 
-function BotCollection({bots, onBotClick, onBotDelete}) {
-  // Your code here
+function BotCollection({bots, onBotClick, onBotDelete, onSort}) {
+  
   return (
-    <div className="ui four column grid">
-      <div className="row">
-        {
-          bots.map((bot) => <BotCard onBotClick={onBotClick} onBotDelete={onBotDelete} key={bot.id} bot={bot}/>)
-        }
-        Collection of all bots
+      <>
+      <SortBar onSort={onSort}/>
+      <div className="ui four column grid">
+        <div className="row">
+          {
+            bots.map((bot) => <BotCard onBotClick={onBotClick} onBotDelete={onBotDelete} key={bot.id} bot={bot}/>)
+          }
+        </div>
       </div>
-    </div>
+      </>
   );
 }
 
