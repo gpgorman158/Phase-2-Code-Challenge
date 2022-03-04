@@ -5,12 +5,14 @@ import BotCollection from "./BotCollection";
 function BotsPage() {
   const [bots, setBots] = useState([])
   const [myBots, setMyBots] = useState([])
-  const [sortedBots, setSortedBots] = useState('')
+  const [sortedBots, setSortedBots] = useState([])
   
   useEffect(()=> {
     fetch('http://localhost:8002/bots')
     .then(resp => resp.json())
-    .then(json => setBots(json))
+    .then(json => {
+      setBots(json)
+      setSortedBots(json)})
   }, [])
 
   function onBotClick (botToAdd){

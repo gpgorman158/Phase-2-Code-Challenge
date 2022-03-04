@@ -1,42 +1,6 @@
 {
   "bots": [
     {
-      "id": 103,
-      "name": "P-24",
-      "health": 88,
-      "damage": 25,
-      "armor": 60,
-      "bot_class": "Witch",
-      "catchphrase": "1100101001110111110010011010110",
-      "avatar_url": "https://robohash.org/idetcumque.png?size=300x300&set=set1",
-      "created_at": "2018-10-02T19:55:10.844Z",
-      "updated_at": "2018-10-02T19:55:10.844Z"
-    },
-    {
-      "id": 104,
-      "name": "qq-69",
-      "health": 74,
-      "damage": 29,
-      "armor": 95,
-      "bot_class": "Defender",
-      "catchphrase": "00011101001001000000101100001100110",
-      "avatar_url": "https://robohash.org/corruptieaqueexcepturi.png?size=300x300&set=set1",
-      "created_at": "2018-10-02T19:55:10.856Z",
-      "updated_at": "2018-10-02T19:55:10.856Z"
-    },
-    {
-      "id": 106,
-      "name": "TI-09",
-      "health": 81,
-      "damage": 39,
-      "armor": 52,
-      "bot_class": "Support",
-      "catchphrase": "00111100111001011111110010110111",
-      "avatar_url": "https://robohash.org/etutprovident.png?size=300x300&set=set1",
-      "created_at": "2018-10-02T19:55:10.887Z",
-      "updated_at": "2018-10-02T19:55:10.887Z"
-    },
-    {
       "id": 107,
       "name": "XSf-63",
       "health": 97,
@@ -59,18 +23,6 @@
       "avatar_url": "https://robohash.org/blanditiisautlaudantium.png?size=300x300&set=set1",
       "created_at": "2018-10-02T19:55:10.915Z",
       "updated_at": "2018-10-02T19:55:10.915Z"
-    },
-    {
-      "id": 109,
-      "name": "hjk-40",
-      "health": 75,
-      "damage": 84,
-      "armor": 31,
-      "bot_class": "Witch",
-      "catchphrase": "11010100110000100001110001100000010111101000001100",
-      "avatar_url": "https://robohash.org/quirationerem.png?size=300x300&set=set1",
-      "created_at": "2018-10-02T19:55:10.940Z",
-      "updated_at": "2018-10-02T19:55:10.940Z"
     },
     {
       "id": 110,
@@ -301,18 +253,6 @@
       "updated_at": "2018-10-02T19:55:11.367Z"
     },
     {
-      "id": 129,
-      "name": "E-88",
-      "health": 95,
-      "damage": 37,
-      "armor": 50,
-      "bot_class": "Medic",
-      "catchphrase": "0110011010100100010110100011000001110001001111",
-      "avatar_url": "https://robohash.org/beataequisaut.png?size=300x300&set=set1",
-      "created_at": "2018-10-02T19:55:11.387Z",
-      "updated_at": "2018-10-02T19:55:11.387Z"
-    },
-    {
       "id": 130,
       "name": "Qz-38",
       "health": 63,
@@ -539,18 +479,6 @@
       "avatar_url": "https://robohash.org/maioresofficiisrepellat.png?size=300x300&set=set1",
       "created_at": "2018-10-02T19:55:11.781Z",
       "updated_at": "2018-10-02T19:55:11.781Z"
-    },
-    {
-      "id": 149,
-      "name": "I-18",
-      "health": 98,
-      "damage": 33,
-      "armor": 51,
-      "bot_class": "Support",
-      "catchphrase": "0011010000110100010110011001001010101000100001101",
-      "avatar_url": "https://robohash.org/sedofficiadeserunt.png?size=300x300&set=set1",
-      "created_at": "2018-10-02T19:55:11.795Z",
-      "updated_at": "2018-10-02T19:55:11.795Z"
     },
     {
       "id": 150,
@@ -923,18 +851,6 @@
       "avatar_url": "https://robohash.org/invelitmaiores.png?size=300x300&set=set1",
       "created_at": "2018-10-02T19:55:12.230Z",
       "updated_at": "2018-10-02T19:55:12.230Z"
-    },
-    {
-      "id": 181,
-      "name": "J-87",
-      "health": 97,
-      "damage": 40,
-      "armor": 72,
-      "bot_class": "Support",
-      "catchphrase": "1111000010010001110101100101010",
-      "avatar_url": "https://robohash.org/architectocorruptiaccusantium.png?size=300x300&set=set1",
-      "created_at": "2018-10-02T19:55:12.245Z",
-      "updated_at": "2018-10-02T19:55:12.245Z"
     },
     {
       "id": 182,
